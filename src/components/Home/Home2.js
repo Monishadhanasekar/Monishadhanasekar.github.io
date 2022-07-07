@@ -29,12 +29,9 @@ function Home2() {
               </i>
               <br />
               <br />I am passionate in developing products with{" "}
-              <b className="purple">Node.js</b> with
+              <b className="purple">Node.js</b> and
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple"> Modern Javascript Library, Frameworks</b>
               </i>
               &nbsp; like
               <i>
