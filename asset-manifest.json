@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.1d8a4618.js",
+    "main.css": "/static/css/main.d8453852.css",
+    "main.js": "/static/js/main.6c2f93e4.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/calc.png": "/static/media/calc.81e62d7332fbc1735f27.png",
@@ -9,7 +9,6 @@
     "static/media/plan.png": "/static/media/plan.7ff3412e1b5e2b774c81.png",
     "static/media/front1.png": "/static/media/front1.92a291a4359b372604fa.png",
     "static/media/weather.png": "/static/media/weather.863d08dcd789ff86db32.png",
-    "static/media/resume.png": "/static/media/resume.ba4836d80934e8844362.png",
     "static/media/alamy.png": "/static/media/alamy.15327d20148218cfb753.png",
     "static/media/pizza.png": "/static/media/pizza.7168ff62e4a046fc21eb.png",
     "static/media/Moni_resume.pdf": "/static/media/Moni_resume.72413f2747e4858ad494.pdf",
@@ -23,13 +22,13 @@
     "static/media/quote.png": "/static/media/quote.75a3d8c027c32e876dcd.png",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.1d8a4618.js.map": "/static/js/main.1d8a4618.js.map",
+    "main.d8453852.css.map": "/static/css/main.d8453852.css.map",
+    "main.6c2f93e4.js.map": "/static/js/main.6c2f93e4.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29bc8131.css",
-    "static/js/main.1d8a4618.js"
+    "static/css/main.d8453852.css",
+    "static/js/main.6c2f93e4.js"
   ]
 }
