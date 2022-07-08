@@ -4,7 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import pdf from "../../src/Assets/Moni_resume.pdf";
+import pdf from "../../src/Assets/Monisha_resume.pdf";
 import { CgGitFork } from "react-icons/cg";
 import {
   AiFillStar,
