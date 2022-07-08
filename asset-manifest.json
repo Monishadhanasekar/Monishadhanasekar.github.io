@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d8453852.css",
-    "main.js": "/static/js/main.6c2f93e4.js",
+    "main.js": "/static/js/main.89126874.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/calc.png": "/static/media/calc.81e62d7332fbc1735f27.png",
@@ -11,7 +11,7 @@
     "static/media/weather.png": "/static/media/weather.863d08dcd789ff86db32.png",
     "static/media/alamy.png": "/static/media/alamy.15327d20148218cfb753.png",
     "static/media/pizza.png": "/static/media/pizza.7168ff62e4a046fc21eb.png",
-    "static/media/Moni_resume.pdf": "/static/media/Moni_resume.72413f2747e4858ad494.pdf",
+    "static/media/Monisha_resume.pdf": "/static/media/Monisha_resume.bf448590e155d47eea6d.pdf",
     "static/media/invoice.png": "/static/media/invoice.ade1d481dfe591f01f2b.png",
     "static/media/quiz.png": "/static/media/quiz.fe05507a9f839ecf6a3c.png",
     "static/media/chatify.png": "/static/media/chatify.b9068eb0bffe6b57f8e2.png",
@@ -23,12 +23,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.d8453852.css.map": "/static/css/main.d8453852.css.map",
-    "main.6c2f93e4.js.map": "/static/js/main.6c2f93e4.js.map",
+    "main.89126874.js.map": "/static/js/main.89126874.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8453852.css",
-    "static/js/main.6c2f93e4.js"
+    "static/js/main.89126874.js"
   ]
 }
