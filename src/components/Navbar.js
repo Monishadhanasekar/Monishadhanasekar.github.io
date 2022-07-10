@@ -4,7 +4,6 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import pdf from "../../src/Assets/Monisha_resume.pdf";
 import { CgGitFork } from "react-icons/cg";
 import {
   AiFillStar,
@@ -80,8 +79,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                as={Link}
-                to={pdf}
+                href="https://www.google.com/url?q=https://drive.google.com/file/d/12KHFBx5QZjap15mevm3HImT9iPlOab-G/view?usp%3Dsharing&sa=D&source=hangouts&ust=1657556329193000&usg=AOvVaw16IqhqrlyFKYRYO4zCMBQQ"
                 target="_blank"
                 onClick={() => updateExpanded(false)}
               >
