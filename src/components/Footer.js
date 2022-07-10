@@ -30,7 +30,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/monisha-sekar-176208193/"
+                href="https://www.linkedin.com/in/monisha-sekar/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
