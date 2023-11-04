@@ -11,7 +11,7 @@ import {
   DiAws,
   DiBootstrap,
 } from "react-icons/di";
-import { SiMaterialui, SiLatex, SiStyledcomponents } from "react-icons/si";
+import { SiMaterialui, SiLatex, SiStyledcomponents, SiMicrosoftazure, SiTailwindcss, SiCsharp, SiFirebase } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -26,16 +26,16 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <div style={{ color: "purple", fontSize: "20px" }}>NODE JS</div>
-        <DiNodejs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <div style={{ color: "purple", fontSize: "20px" }}>REACT</div>
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <div style={{ color: "purple", fontSize: "20px" }}>MONGODB</div>
-        <DiMongodb />
+        <div style={{ color: "purple", fontSize: "20px" }}>NODE JS</div>
+        <DiNodejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div style={{ color: "purple", fontSize: "20px" }}>C#</div>
+        <SiCsharp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div style={{ color: "purple", fontSize: "20px" }}>HTML</div>
@@ -50,8 +50,16 @@ function Techstack() {
         <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <div style={{ color: "purple", fontSize: "20px" }}>AWS</div>
-        <DiAws />
+        <div style={{ color: "purple", fontSize: "20px" }}>MONGODB</div>
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div style={{ color: "purple", fontSize: "20px" }}>MICROSOFT AZURE</div>
+        <SiMicrosoftazure />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div style={{ color: "purple", fontSize: "20px" }}>FIREBASE</div>
+        <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div style={{ color: "purple", fontSize: "20px" }}>BOOTSTRAP</div>
@@ -62,14 +70,18 @@ function Techstack() {
         <SiMaterialui />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <div style={{ color: "purple", fontSize: "20px" }}>LATEX</div>
-        <SiLatex />
+        <div style={{ color: "purple", fontSize: "20px" }}>TAILWINDCSS</div>
+        <SiTailwindcss />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div style={{ color: "purple", fontSize: "20px" }}>
           STYLED COMPONENTS
         </div>
         <SiStyledcomponents />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div style={{ color: "purple", fontSize: "20px" }}>LATEX</div>
+        <SiLatex />
       </Col>
     </Row>
   );

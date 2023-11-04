@@ -15,6 +15,7 @@ import school from "../../Assets/Projects/school.png";
 import plan from "../../Assets/Projects/plan.png";
 import chatty from "../../Assets/Projects/chatify.png";
 import url from "../../Assets/Projects/URLShortener.png";
+import netflixgpt from '../../Assets/Projects/netflixgpt.png';
 
 function Projects() {
   return (
@@ -22,31 +23,31 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My Personal <strong className="purple">Projects </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+        <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={pizza}
+              imgPath={netflixgpt}
               isBlog={false}
-              title="Home Slice"
-              description="A well-balanced meal is a slice in both hands. Home slice service allows customers to pick from different flavours of pizza from the menu according to their taste, place an order. Build using MERN stack and stripe gateway for payment."
-              ghLink="https://github.com/Monishadhanasekar/pizza-app"
-              demoLink="https://awesome-pizza.herokuapp.com/"
+              title="Netflix GPTs"
+              description="NetflixGPT: Your movie night just got smarter with React and Firebase magic!"
+              ghLink="https://github.com/Monishadhanasekar/netflixgpt"
+              demoLink="https://netflixgpt-531a1.web.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={notes}
+              imgPath={quiz}
               isBlog={false}
-              title="Daily-notes"
-              description="Notes are a great way to keep track of information for yourself build using MERN stack which allows users to create, edit and delete the notes."
-              ghLink="https://github.com/Monishadhanasekar/daily_notes-frontend"
-              demoLink="https://precious-tarsier-9c2eea.netlify.app/"
+              title="Quiz Hub"
+              description="Quizzes used to measure growth in knowledge, abilities, or skills. In Quiz hub, users can participate in the quiz based on the categories and the dificulty level. If the wrong answer selected, it will show the correct answer in green box. Final score will be given. Build using React Js."
+              ghLink="https://github.com/Monishadhanasekar/Quiz-hub"
+              demoLink="https://neon-pony-4a2765.netlify.app/"
             />
           </Col>
 
@@ -58,6 +59,28 @@ function Projects() {
               description="Personal Chat Room to share resources and hangout with friends build with MERN stack and web socket. Have features which allows user for realtime messaging, set profile picture as well as supports emojis on messages."
               ghLink="https://github.com/Monishadhanasekar/chatty-frontend"
               demoLink="https://golden-semifreddo-f29d63.netlify.app/"
+            />
+          </Col>
+
+          {/* <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pizza}
+              isBlog={false}
+              title="Home Slice"
+              description="A well-balanced meal is a slice in both hands. Home slice service allows customers to pick from different flavours of pizza from the menu according to their taste, place an order. Build using MERN stack and stripe gateway for payment."
+              ghLink="https://github.com/Monishadhanasekar/pizza-app"
+              demoLink="https://awesome-pizza.herokuapp.com/"
+            />
+          </Col> */}
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={notes}
+              isBlog={false}
+              title="Daily-notes"
+              description="Notes are a great way to keep track of information for yourself build using MERN stack which allows users to create, edit and delete the notes."
+              ghLink="https://github.com/Monishadhanasekar/daily_notes-frontend"
+              demoLink="https://precious-tarsier-9c2eea.netlify.app/"
             />
           </Col>
 
@@ -146,17 +169,6 @@ function Projects() {
               description="Basic 4-function calculator able to do simple arithmetic, which includes addition, subtraction, multiplication, and division. Build using React Js."
               ghLink="https://github.com/Monishadhanasekar/Calculator"
               demoLink="https://tubular-creponne-28da58.netlify.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={quiz}
-              isBlog={false}
-              title="Quiz Hub"
-              description="Quizzes used to measure growth in knowledge, abilities, or skills. In Quiz hub, users can participate in the quiz based on the categories and the dificulty level. If the wrong answer selected, it will show the correct answer in green box. Final score will be given. Build using React Js."
-              ghLink="https://github.com/Monishadhanasekar/Quiz-hub"
-              demoLink="https://neon-pony-4a2765.netlify.app/"
             />
           </Col>
 

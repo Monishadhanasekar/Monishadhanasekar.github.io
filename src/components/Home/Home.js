@@ -25,6 +25,10 @@ function Home() {
                 <strong className="main-name"> MONISHA DHANASEKAR</strong>
               </h1>
 
+              <h4 className="heading-name1">
+                <p className="main-name"> FullStack Developer @Mediguru</p>
+              </h4>
+
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>

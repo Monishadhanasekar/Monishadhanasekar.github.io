@@ -16,30 +16,23 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have <b className="purple">1+ years of experience</b> in
-              software industry and also completed{" "}
+              I have <b className="purple">2+ years of working experience</b> in
+              software industry and currently working as a{" "}
               <b className="purple">
-                Full-Stack [MERN] Developer BootCamp @ Guvi, Chennai.
+                Full-Stack Developer @ Mediguru, Chennai.
               </b>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products.</b>
-              </i>
+              My field of Interest is building new &nbsp;             
+                <b className="purple">impactful products using web technologies.</b>
+              
               <br />
-              <br />I am passionate in developing products with{" "}
-              <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple"> Modern Javascript Library, Frameworks</b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js.</b>
-              </i>
+              <br />
+              Built well tested and re-usable UI components.
               <br></br>
+
               <br></br>I have hands-on experience in developing Full- Stack web
-              Applications with <b className="purple">MERN stack.</b>
+              Applications using <b className="purple">ReactJs, NodeJs, C#, MS SQL server, MongoDB and Git</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">

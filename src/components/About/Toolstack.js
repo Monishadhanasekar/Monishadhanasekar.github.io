@@ -8,6 +8,7 @@ import {
   SiNetlify,
   SiLinode,
   SiGithub,
+  SiMicrosoftazure
 } from "react-icons/si";
 
 function Toolstack() {
@@ -24,6 +25,10 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <div style={{ color: "purple", fontSize: "20px" }}>POSTMAN</div>
         <SiPostman />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div style={{ color: "purple", fontSize: "20px" }}>MICROSOFT AZURE</div>
+        <SiMicrosoftazure />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div style={{ color: "purple", fontSize: "20px" }}>NETLIFY</div>
