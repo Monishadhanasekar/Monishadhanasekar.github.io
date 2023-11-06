@@ -26,7 +26,7 @@ function Projects() {
           My Personal <strong className="purple">Projects </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+        Apart from my day to day work, I also work on some personal projects on my free time to enhance my skills. <br></br>Here are the few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={4} className="project-card">
