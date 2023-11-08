@@ -36,7 +36,7 @@ function Projects() {
               title="Netflix GPTs"
               description="NetflixGPT: Your movie night just got smarter with React and Firebase magic!"
               ghLink="https://github.com/Monishadhanasekar/netflixgpt"
-              demoLink="https://netflixgpt-531a1.web.app/"
+              demoLink="https://netflixgptapp.netlify.app/"
             />
           </Col>
 
