@@ -28,7 +28,8 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    // <Router>
+    <>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
@@ -41,7 +42,8 @@ function App() {
         </Routes>
         <Footer />
       </div>
-    </Router>
+      </>
+    // </Router>
   );
 }
 
