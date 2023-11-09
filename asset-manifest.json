@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a5f12963.css",
-    "main.js": "/static/js/main.95f2cd6d.js",
+    "main.js": "/static/js/main.6c57cd6d.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/netflixgpt.png": "/static/media/netflixgpt.bb057d987e5dcb057f3c.png",
@@ -23,12 +23,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.a5f12963.css.map": "/static/css/main.a5f12963.css.map",
-    "main.95f2cd6d.js.map": "/static/js/main.95f2cd6d.js.map",
+    "main.6c57cd6d.js.map": "/static/js/main.6c57cd6d.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5f12963.css",
-    "static/js/main.95f2cd6d.js"
+    "static/js/main.6c57cd6d.js"
   ]
 }
